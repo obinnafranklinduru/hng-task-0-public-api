@@ -50,3 +50,11 @@ No request body or parameters are required.
 ```bash
 curl -X GET http://localhost:3000/
 ```
+
+## Response Time
+
+The API is designed to have a fast response time, typically under 500ms.
+
+---
+
+Looking to hire skilled Node.js developers? Check out [HNG's Node.js Developers Hiring Page](https://hng.tech/hire/nodejs-developers) to find top talent for your projects!
