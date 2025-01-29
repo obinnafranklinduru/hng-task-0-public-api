@@ -8,7 +8,7 @@ This is a simple public API built with Express.js that returns basic information
 
    ```bash
    git clone https://github.com/obinnafranklinduru/hng-task-0-public-api.git
-   cd your-repo
+   cd hng-task-0-public-api
    ```
 
 2. Install dependencies:
