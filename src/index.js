@@ -13,8 +13,7 @@ app.get("/", (req, res) => {
   const response = {
     email: "duruobinnafranklin@gmail.com",
     current_datetime: currentDatetime,
-    github_url:
-      "https://github.com/obinnafranklinduru/hng-task-0-public-api.git",
+    github_url: "https://github.com/obinnafranklinduru/hng-task-0-public-api",
   };
   res.status(200).json(response);
 });
